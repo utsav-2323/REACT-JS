@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "RRR",
+      "view": "5/10"
+    },
+    {
+      "title": "Boss",
+      "view": "8/10",
+      "id": "2"
+    },
+    {
+      "title": "Munja",
+      "view": "6/10",
+      "id": "3"
+    }
+  ]
+}

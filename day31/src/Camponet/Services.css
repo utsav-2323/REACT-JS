@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    margin-top: 8%;
+    width: 90%;
+    height: 550px;
+    border: 1px solid #000;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ser-tital{
+    width: 30%;
+    height: 40px;
+    border: 1px solid #000;
+    position: absolute;
+    background-color: #EFEFEF;
+    top: -3.5%;
+    left: 10.99%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ser-tital h4{
+    font-size: 20px;
+    font-weight: 400;
+    word-spacing: 1.5px;
+}
+.tital{
+    width: 20%;
+    height: 40px;
+    border: 1px solid #000;
+}
+.se-1{
+    border: 1px solid rgb(239,239,239);
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 20px;
+}
+
+.se-1 h1{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 50px;
+}
+hr{
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 30px;
+}
+h6{
+    text-align: center;
+    padding-top: 10px;
+}

@@ -1,0 +1,272 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.a-1 a{
+    font-weight: 100px;
+    margin-left: 20px;
+}
+.a-1 a:hover{
+    color: rgb(110,166,234);
+}
+.a-2 svg{
+    margin-left: 20px;
+    cursor: pointer;
+}
+.a-2 svg:hover{
+    color: rgb(110,166,234);
+}
+.b-1 img{
+    height:500px;
+    position: relative;
+}
+.slider-1{
+    width: 40%;
+    height: 250px;
+    /* border: 1px solid; */
+    margin-top: -400px;
+    position: absolute;
+    margin-left: 10px;
+}
+.slider-1 h5{
+    padding-left: 40px;
+    padding-top: 20px;
+}
+.slider-1 h1{
+    padding-left: 40px;
+    font-size: 50px;
+    padding-top: 20px;
+}
+.slider-1 button{
+    margin-left: 40px;
+    margin-top: 20px;
+    background-color:rgb(110,166,234);
+    border-radius: 10px;
+}
+
+.slider-2{
+    width: 50%;
+    height: 250px;
+    /* border: 1px solid; */
+    margin-top: -400px;
+    position: absolute;
+    margin-left: 10px;
+}
+.slider-2 h5{
+    padding-left: 40px;
+    padding-top: 20px;
+}
+.slider-2 h1{
+    padding-left: 40px;
+    font-size: 60px;
+    padding-top: 20px;
+}
+.slider-2 button{
+    margin-left: 40px;
+    margin-top: 20px;
+    background-color:rgb(110,166,234);
+    border-radius: 10px;
+}
+
+.slider-3{
+    width: 40%;
+    height: 250px;
+    /* border: 1px solid; */
+    margin-top: -400px;
+    position: absolute;
+    margin-left: 10px;
+}
+.slider-3 h5{
+    padding-left: 40px;
+    padding-top: 20px;
+}
+.slider-3 h1{
+    padding-left: 40px;
+    font-size: 50px;
+    padding-top: 20px;
+}
+.slider-3 button{
+    margin-left: 40px;
+    margin-top: 20px;
+    background-color:rgb(110,166,234);
+    border-radius: 10px;
+}
+
+.se-1{
+    height: 250px;
+    width: 100%;
+    /* border: 1px solid; */
+    cursor: pointer;
+}
+.se-1 h3{
+    margin-top: -200px;
+    padding-left: 20px;
+    font-weight: bold;
+}
+.se-1 p{
+    padding-left: 20px;
+}
+
+
+.se-2{
+    height: 250px;
+    width: 100%;
+    /* border: 1px solid; */
+    cursor: pointer;
+}
+.se-2 h3{
+    margin-top: -200px;
+    padding-left: 20px;
+    font-weight: bold;
+}
+.se-2 p{
+    padding-left: 20px;
+}
+
+
+.se-3{
+    height: 250px;
+    width: 100%;
+    /* border: 1px solid; */
+    cursor: pointer;
+}
+.se-3 h3{
+    margin-top: -200px;
+    padding-left: 20px;
+    font-weight: bold;
+}
+.se-3 p{
+    padding-left: 20px;
+}
+
+
+
+section-2  .s-2 h2{
+    padding-left: 50px;
+}
+section-2 .s-22 button{
+    margin-left: 20px;
+    width: 100px;
+    height: 40px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+section-2 .s-22 button:hover{
+    background-color: rgb(110,166,234);
+}
+section-3 .im-3{
+    overflow: hidden;
+}
+section-3 .im-3 img{
+    transition: 2s;
+    width: 100%;
+    height: 350px;
+    cursor: pointer;
+}
+section-3 img:hover{
+    transform: scale(1.1);
+}
+section-3 .s-31 svg{
+    margin-left: 50px;
+    margin-top: 10px;
+    cursor: pointer;
+   
+}
+section-3 .s-31 svg:hover{
+    color: rgb(110,166,234);
+}
+
+
+
+section-4 .im-4{
+    overflow: hidden;
+}
+section-4 .im-4 img{
+    transition: 2s;
+    width: 100%;
+    height: 350px;
+    cursor: pointer;
+}
+section-4 img:hover{
+    transform: scale(1.1);
+}
+section-4 .s-41 svg{
+    margin-left: 50px;
+    margin-top: 10px;
+    cursor: pointer;
+   
+}
+section-4 .s-41 svg:hover{
+    color: rgb(110,166,234);
+}
+
+
+
+section-5 .im-5{
+    overflow: hidden;
+}
+section-5 .im-5 img{
+    transition: 2s;
+    width: 100%;
+    height: 350px;
+    cursor: pointer;
+}
+section-5 img:hover{
+    transform: scale(1.1);
+}
+section-5 .s-51 svg{
+    margin-left: 50px;
+    margin-top: 10px;
+    cursor: pointer;
+   
+}
+section-5 .s-51 svg:hover{
+    color: rgb(110,166,234);
+}
+
+
+section-6 .im-6{
+    overflow: hidden;
+}
+section-6 .im-6 img{
+    transition: 2s;
+    width: 100%;
+    height: 350px;
+    cursor: pointer;
+}
+section-6 img:hover{
+    transform: scale(1.1);
+}
+section-6 .s-61 svg{
+    margin-left: 50px;
+    margin-top: 10px;
+    cursor: pointer;
+   
+}
+section-6 .s-61 svg:hover{
+    color: rgb(110,166,234);
+}
+
+
+footer h5{
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+}
+
+footer h6{
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+}
+
+footer p{
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+
+
+
+

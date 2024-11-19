@@ -1,0 +1,14 @@
+h4{
+    font-size: 25px;
+    font-weight: 800;
+}
+samp{
+    font-size: 20px;
+}
+.a1{
+    margin-left: 27%;
+    width: 30%;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 17px;
+}
